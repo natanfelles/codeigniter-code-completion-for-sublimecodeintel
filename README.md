@@ -18,6 +18,8 @@ Tip: If you also press the *code_intel_auto_complete* command inside a function 
 
 > On [CodeIgniter 4](https://github.com/bcit-ci/CodeIgniter4) the `.cc` folder is not necessary. SublimeCodeIntel undertand namespaces and methods return types. :)
 
+![CodeIgniter Code-Completion for SublimeCodeIntel](https://i.imgur.com/7NYNydr.png)
+
 References:
 
 - [PhpStorm Code Completion to CodeIgniter + HMVC](https://github.com/natanfelles/codeigniter-phpstorm)
